@@ -1,2 +1,3 @@
 To jest moj piewszy plik tekstowy, zawierajacy jedna linijke tekstu
 Druga linia tekstu
+Trzecia linijka tekstu
